@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @golurs
+- 👋 Hi, I’m Urszula @golurs
 - 🌱 I’m currently learning HTML5 and CSS3.
 <!---- 💞️ I’m looking to collaborate on ...
 - 👀 I’m interested in intern
