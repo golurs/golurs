@@ -1,5 +1,5 @@
- 👋 Hi, I’m @golurs
-🌱 I’m currently learning HTML5 and CSS3.
+- 👋 Hi, I’m @golurs
+-🌱 I’m currently learning HTML5 and CSS3.
 <!---- 💞️ I’m looking to collaborate on ...
 - 👀 I’m interested in intern
 - 📫 How to reach me ...
