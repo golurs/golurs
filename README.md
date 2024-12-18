@@ -1,8 +1,8 @@
 <h1>👋 Hi, I’m Urszula</h1> 
 <h2>🌱 I’m currently learning HTML5 and CSS3.</h2>
-<br/><br/>
+<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=golurs&theme=shadow_blue&hide_border=false&layout=compact) <br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=golurs&theme=shadow_blue&hide_border=false&layout=compact) <br/>
 
 <!---
 ## 💻 | Tech Skills
